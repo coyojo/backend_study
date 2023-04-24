@@ -1,6 +1,6 @@
 # Compiled class file
 *.class
-
+.metadata/
 # Log file
 *.log
 
@@ -17,9 +17,8 @@
 *.ear
 *.zip
 *.tar.gz
-*.rar
-.metadata
-bin/
+*.rars
+/bin/
 tmp/
 *.tmp
 .settings/
