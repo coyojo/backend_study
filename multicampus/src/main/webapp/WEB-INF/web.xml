@@ -29,5 +29,10 @@
 		<servlet-name>appServlet</servlet-name>
 		<url-pattern>/</url-pattern>
 	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>first</servlet-name>
+		<servlet-class>basic.firstServlet</servlet-class>
+	</servlet>
 
 </web-app>
